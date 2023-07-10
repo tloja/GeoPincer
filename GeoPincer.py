@@ -1,5 +1,5 @@
+#!/usr/bin/env python3
 from urllib.parse import urlencode
-import sys
 import overpass                                     
 import argparse
 from tqdm import tqdm

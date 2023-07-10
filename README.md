@@ -27,6 +27,8 @@ For large-range searches, you can use the provided U.S. region dictionaries in o
 # Output
 Any locations that match your query will be returned as Google Maps URLs:
 
+>Note: The URL will point to the LAST node entered in the query
+
 ```
 $python3 GeoPincer.py "Maryland" "Shell" "Holiday Inn" --distance 500
 Searching Maryland...

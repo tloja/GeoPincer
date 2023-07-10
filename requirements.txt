@@ -1,0 +1,4 @@
+geopy==2.3.0
+overpass==0.7
+tqdm==4.61.1
+urllib3==1.26.4
